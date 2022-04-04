@@ -1,10 +1,7 @@
 import React from 'react';
-import './Player.css'
 
-const Player = (props) => {
-    const{picture,name,price}=props.player;
-    console.log(props);
-    // const
+const SinglePlayer = (props) => {
+    const{name,picture,price}=props.singleplayer;
     return (
         <div  >
             
@@ -21,4 +18,4 @@ const Player = (props) => {
     );
 };
 
-export default Player;
+export default SinglePlayer;

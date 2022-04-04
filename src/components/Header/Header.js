@@ -1,5 +1,6 @@
 import React from 'react';
 import { Container, Nav, Navbar } from 'react-bootstrap';
+import HeaderShow from '../HeaderShow/HeaderShow';
 
 const Header = () => {
     return (
@@ -16,7 +17,10 @@ const Header = () => {
     </Nav>
     </Container>
   </Navbar>
+  
+  
         </div>
+        
     );
 };
 
