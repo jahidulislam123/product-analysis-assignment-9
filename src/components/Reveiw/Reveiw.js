@@ -1,11 +1,23 @@
 import React from 'react';
 import usePlayers from '../Hook/usePlayer';
 import SinglePlayer from '../SinglePlayer/SinglePlayer';
-
+import Caruse from './Carusel/Caruse';
+import './Reveiw.css'
 const Reveiw = () => {
     const[players,setPlayers]=usePlayers();
     return (
-        <div>
+
+        
+
+        
+        <div >
+           <div className='width-carusel container'>
+           <Caruse></Caruse>
+           </div>
+            <br /> <br />
+            
+            <div className='reveiw-class'>
+
             {
                 players.map(singleplayer=><SinglePlayer
                 
@@ -14,6 +26,9 @@ const Reveiw = () => {
                 
                 ></SinglePlayer>)
             }
+            </div>
+           
+            
         </div>
     );
 };

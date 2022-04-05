@@ -1,5 +1,5 @@
 // import React from 'react';
-// import './Footer.css'
+import './Footer.css'
 
 // const Footer = () => {
 //     return (
@@ -60,7 +60,7 @@ import React from 'react';
 
 const Footer = () => {
     return (
-        <div>
+        <div className='footer'>
                <footer className="bg-black pt-3 pb-3">
         <section className="container text-white">
             <div className="d-flex justify-content-between align-items-center">

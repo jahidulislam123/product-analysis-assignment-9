@@ -20,16 +20,21 @@ const Home = () => {
   <h1>Review</h1>
         <div  className='home-container'>
             {
-                players.map(player=> <Player
+                players.slice(0,3).map(player=> <Player
                 key={player.id}
                 player={player}
 
                 ></Player>)
             }
+
+
             
             
             
         </div>
+        <a href="/reveiw"><button>Review</button></a>
+
+        
         </div>
     );
 };
