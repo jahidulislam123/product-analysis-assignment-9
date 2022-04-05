@@ -1,0 +1,28 @@
+.about {
+    background-color: rgb(95, 91, 91);
+
+    border-radius: 9px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 20px;
+    color: aliceblue;
+}
+
+.compo {
+    border-radius: 7px;
+    /* border: 1px solid wheat; */
+    margin-right: 120px;
+    margin-left: 120px;
+
+    background-color: rgb(107, 99, 99);
+    margin-bottom: 50px;
+    padding: 10px;
+    color: aliceblue;
+
+}
+
+.compo img {
+    width: 40%;
+    border-radius: 6px;
+    height: 270px;
+}

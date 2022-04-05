@@ -1,16 +1,17 @@
 import React from 'react';
-
+import './single.css'
 const SinglePlayer = (props) => {
-    const{name,picture,price}=props.singleplayer;
+    const{name,picture,price,reveiw,comment}=props.singleplayer;
     return (
-        <div  >
+        <div className='single-comment' >
             
             
            <div>
            
             <img src={picture} alt="" />
             <h3>Name:{name}</h3>
-            <p>price:{price}</p>
+            <p>reveiw:{reveiw}</p>
+            <p>comment:{comment}</p>
             
            </div>
 

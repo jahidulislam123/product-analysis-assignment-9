@@ -1,0 +1,9 @@
+.bitton {
+    background-image: linear-gradient(orange, crimson);
+    border: none;
+    color: aliceblue;
+    padding: 6px;
+    font-weight: 800;
+    border-radius: 6px;
+    margin-bottom: 9px;
+}

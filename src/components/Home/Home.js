@@ -32,7 +32,7 @@ const Home = () => {
             
             
         </div>
-        <a href="/reveiw"><button>Review</button></a>
+        <a href="/reveiw"><button className='bitton' >Review</button></a>
 
         
         </div>

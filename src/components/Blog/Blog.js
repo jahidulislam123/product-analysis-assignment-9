@@ -1,18 +1,18 @@
 import React from 'react';
-
+import './Blog.css'
 const Blog = () => {
     return (
         <div className='container'>
             <h1>Question And Answer</h1>
             <br /><br /><br />
-            <div >
+            <div className='text' >
                 <h1>Question: What is Context Api ?</h1>
                 <p>Ans :The React Context API is a way for a React app to effectively produce global variables that can be passed around. This is the alternative to "prop drilling" or moving props from grandparent to child to parent, and so on. Context is also touted as an easier, lighter approach to state management using Redux.
 
 Context API is a (kind of) new feature added in version 16.3 of React that allows one to share state across the entire app (or part of it) lightly and with ease.The Context API is a React structure that enables you to exchange unique details and assists in solving prop-drilling from all levels of your application. </p>
 
             </div>
-            <div>
+            <div  className='text'>
                 <h1>Question:What is Semantic tag?</h1>
 
                 <p>Ans:Semantic tags solve both problems simultaneously, giving you greater flexibility and control over your reporting structures while simplifying and speeding up your work. Semantic tags allow you to set up a list of tags and corresponding key figures and assign these tags to FSV items. This keeps report definitions stable even as further accounts are added and as more FSVs are created. Because semantic tags allow SAP to predeliver more thorough reporting structures, you don't have to create as many as before. You benefit from this enhanced predelivered reporting while having an easier way to create custom analyses and multi-dimension drill-downs.
@@ -21,7 +21,7 @@ Here's how they work: Semantic tags are short text identifiers that you use to r
             </div>
 
 
-            <div>
+            <div  className='text'>
                 <h1>Question: Deffernce Between inline and Block?</h1>
                 <p>A block-level element always starts on a new line, and the browsers automatically add some space (a margin) before and after the element.
 

@@ -5,7 +5,9 @@
         "price": 14,
         "picture": "https://cdn.britannica.com/34/212134-050-A7289400/Lionel-Messi-2018.jpg",
         "name": "Lionel Messi",
-        "gender": "Just Chill"
+        "gender": "Just Chill",
+        "comment": "tremendous",
+        "reveiw": "4 star"
     },
     {
         "id": "623853b2578e9e6ad1ae0dd5",
@@ -13,7 +15,9 @@
         "picture": "https://cdn.vox-cdn.com/thumbor/32Ygowcn0ic2Ump23b0KEXdH2KU=/0x0:5145x3430/920x613/filters:focal(2287x1181:3109x2003):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/70575537/1374437727.0.jpg",
         "name": "Alex Ovechkin",
         "price": 27,
-        "gender": "Keep Coding"
+        "gender": "Keep Coding",
+        "comment": "Absoulutely Enjoyable",
+        "reveiw": "5 start"
     },
     {
         "id": "623853b21fb149d2ee7b76c7",
@@ -21,7 +25,9 @@
         "picture": "https://static.toiimg.com/thumb/msid-74860443,imgsize-301252,width-400,resizemode-4/74860443.jpg",
         "name": "DJ Bravo",
         "price": 24,
-        "gender": ""
+        "gender": "",
+        "comment": "Always touced with ipl",
+        "reveiw": "4.5 star"
     },
     {
         "id": "623853b2e91c8de578c9245e",
@@ -29,7 +35,9 @@
         "picture": "https://cdn.britannica.com/91/134291-050-5D1D11F0/Jack-Nicklaus-hole-birdie-putt-round-1986-1986.jpg",
         "name": "Jack Nicklaus",
         "price": 14,
-        "gender": "Mix Yellow"
+        "gender": "Mix Yellow",
+        "comment": "its become a pasion to updated with ipl",
+        "reveiw": "4 star"
     },
     {
         "id": "623853b2239582e48409ccc6",
@@ -37,7 +45,9 @@
         "price": 34,
         "picture": "https://www.billbazar.com.bd/public/uploads/all/8hgD0lQGODVXbB5sokhvwr7mUNjBx7pEHusuyGZj.webp",
         "name": "Nikola Jokic",
-        "gender": "male"
+        "gender": "male",
+        "comment ": "i fall love to ipl",
+        "reveiw": "5 start "
     },
     {
         "id": "623853b2cdda0d5bc294f791",
@@ -45,7 +55,9 @@
         "picture": "https://i.pinimg.com/originals/eb/af/43/ebaf43b3c8726fb1ffca04d6db32a76a.jpg",
         "name": "Vivianne Miedema",
         "price": 141,
-        "gender": "female"
+        "gender": "female",
+        "comment": "waiting for 2023",
+        "reveiw": "5 star"
     },
     {
         "id": "623853b2736f19fd4eb8d44a",
@@ -53,6 +65,8 @@
         "price": 41,
         "picture": "https://s.yimg.com/sr/img/1/3936a2ac-1b30-352c-bb80-42b6f682e25c",
         "name": " Ellyse Perry",
-        "gender": "female"
+        "gender": "female",
+        "comment": "need female ipl",
+        "reveiw": "5 star"
     }
 ]

@@ -1,0 +1,8 @@
+.text {
+    /* background-image: linear-gradient(rgb(192, 224, 236), rgb(9, 211, 43));
+     */
+    background-color: rgb(121, 240, 121);
+    border-radius: 6px;
+    padding: 9px;
+    margin-bottom: 8px;
+}
