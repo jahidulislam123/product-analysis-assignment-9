@@ -1,5 +1,13 @@
 # Getting Started with Create React App
 
+## Live Site : https://spiffy-semifreddo-f293a1.netlify.app/home
+
+# what kind of work i have done in my projects 
+* First and foremost i have created many components
+* secondly installed bootstrap 
+* installed reachary and router
+* uploaded code after sometimes gradually 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

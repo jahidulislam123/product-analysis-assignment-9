@@ -19,7 +19,7 @@ const About = () => {
             <div className='compo'>
             <img src="/images/photo_2022-04-05_19-07-42.jpg" alt="" />
            <h2>Details</h2> 
-           <h5>Name: Mahmudur Rahaman</h5>
+           <h5>Name: Mahmudur Rahaman Nahin</h5>
            <p>passion: Cycyling</p>
             </div>
 
